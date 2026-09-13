@@ -28,7 +28,7 @@ Input Number → Instruction Execution → Modulus Operation → Prime Check →
 - `docs/` – Project report
 
 ## Google Sites link
-https://sites.google.com/view/maddsproject/project
+[https://sites.google.com/view/maddsproject/project](https://sites.google.com/view/maddsproject/project)
 
 ## Results
 The processor was successfully designed and simulated. Waveforms verified the operation of the pipeline, program counter, pipeline registers, register file, and ALU.
